@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "name": "@fbi/secrets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "case <case@casesandberg.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@placeholder/text": "^0.2.1"
+  }
+}
